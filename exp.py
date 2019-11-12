@@ -1,4 +1,5 @@
 from PwnContext import *
+
 if __name__ == '__main__':
     context.terminal = ['tmux', 'split', '-h']
     #-----function for quick script-----#
